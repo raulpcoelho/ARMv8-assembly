@@ -1,0 +1,5 @@
+O formato de instrucao mais apropriado seria
+
+RPT reg, #const
+
+reg seria um registrador e o segundo parametro seria uma constante. O loop acabaria quando o registrador chegasse no valor da constante.
